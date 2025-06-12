@@ -69,7 +69,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="aspect-square bg-white/10 rounded-3xl backdrop-blur-sm border border-white/20 p-8">
               <img
-                src="https://i.imghippo.com/files/l2253wm.jpg"
+                src="https://i.imghippo.com/files/rzR1075wTI.jpg"
                 alt="Latest Electronics - Professional Drone"
                 className="w-full h-full object-cover rounded-2xl"
               />
