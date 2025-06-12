@@ -39,7 +39,7 @@ export function Header() {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <img src="/images/logo-new.png" alt="MDS Store Logo" className="h-10 w-auto" />
+            <img src="https://i.imghippo.com/files/DyC9170KXw.png" alt="MDS Store Logo" className="h-10 w-auto" />
             <span className="font-bold text-xl">MDS Store</span>
           </Link>
 
